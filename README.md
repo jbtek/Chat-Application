@@ -70,15 +70,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 #### `RUN SERVER SIDE GUIDE`
-> configure mongoDB first and see the connection in 'db' folder.
-> cd server
-> node seeder -d
-> node seeder -i
-> npm i
-> npm start
+# configure mongoDB first and see the connection in 'db' folder.
+# cd server
+# node seeder -d
+# node seeder -i
+# npm i
+# npm start
 
 
 #### `RUN CLINT SIDE GUIDE`
-> cd client
-> npm i
-> npm start
+# cd client
+# npm i
+# npm start
