@@ -1,0 +1,24 @@
+[
+	{
+		"userMessage":"User: Hello",
+		"botMessage":["Bot: How can I help you today?"],
+		"engagementRate":40,
+        "dropOffRate":50,
+        "completionRate":60
+
+	},
+	{
+		"userMessage":"User: I want to check my bank balance for my savings account",
+		"botMessage":["Bot: Sure, you have R2000 in your savings account", "Bot:Can I help you with anything else?"],
+		"engagementRate":50,
+        "dropOffRate":20,
+        "completionRate":80
+	},
+	{
+		"userMessage":"User: No thanks Bot: Great, come back soon!",
+		"botMessage":null,
+		"engagementRate":50,
+        "dropOffRate":20,
+        "completionRate":60
+	}
+]
